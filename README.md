@@ -1,0 +1,2 @@
+# SQLPractice
+SQL Practice Queries
