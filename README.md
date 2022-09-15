@@ -21,3 +21,11 @@ create table students (id varchar(5) not null, name varchar(20) not null, dept_n
 select * from students;
 select id, name, dept_name from students;
 ```
+
+## Day 2
+
+```
+Super Key, Candidate Key, Primary Key, Foreign Key, Cross Product, Natural Join
+
+Understanding schema of tables from Database book schema
+```
